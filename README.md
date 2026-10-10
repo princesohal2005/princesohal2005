@@ -14,8 +14,8 @@ I enjoy taking large, messy datasets and turning them into clear answers: cleani
 
 ### Skills
 
-**Data:** pandas · NumPy · SQL / MySQL · data cleaning · EDA · regression · Random Forest · k-means · PCA
-**Visualisation:** matplotlib · seaborn
+**Data:** pandas · NumPy · SQL / MySQL · data cleaning · EDA · regression · Random Forest · k-means · PCA  
+**Visualisation:** matplotlib · seaborn  
 **Tools:** Jupyter · Excel · Git / GitHub
 
 ### Contact
